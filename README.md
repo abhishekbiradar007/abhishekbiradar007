@@ -1,6 +1,6 @@
 # 👨‍💻 ABHISHEK BIRADAR
 
-<h3 align="center">Aspiring Software Engineer | Java Developer | Software Testing</h3>
+<h3 align="center">Aspiring Software Tester | Automation Engineer | Manual Testing</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Passionate+About+Technology;Java+%7C+SQL+%7C+Software+Development;Problem+Solving+%7C+Continuous+Learning;Building+Skills.+Creating+Solutions." />
